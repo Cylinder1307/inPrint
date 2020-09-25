@@ -3,4 +3,4 @@ Pretty uselesss tbh, just putting it here cause its the first Debian package I m
 
 
 ## Install with ```sudo dpkg -i inPrint.deb```
-## Run with ```inPrint```
+## Run with ```inPrint``` or ```inPrint.py```

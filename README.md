@@ -1,5 +1,5 @@
 # inPrint
-Pretty uselesss tbh, just putting it here cause its the first Debian package I made.
+Pretty uselesss tbh, just putting it here cause it's the first Debian package I made.
 
 
 ## Install with ```sudo dpkg -i inPrint.deb```

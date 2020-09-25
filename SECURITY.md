@@ -1,3 +1,3 @@
 # Security Policy
 
-## Make a bug report if someone else is trying to use this project maliciously.
+## Make a bug report if someone is trying to use this project maliciously.
